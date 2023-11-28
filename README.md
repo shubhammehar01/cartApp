@@ -53,10 +53,3 @@ Welcome to ReactCart, a dynamic web application developed with React that empowe
 
 We welcome contributions! Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize and expand this template based on the specific details of your project.

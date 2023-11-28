@@ -19,7 +19,11 @@ Welcome to ReactCart, a dynamic web application developed with React that empowe
 ## Technologies Used
 
 - React
-- [Add any additional libraries or tools used]
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
 
 ## Getting Started
 
